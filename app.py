@@ -1,7 +1,6 @@
 import random
 import math
 
-# your code here
 
 who = ['My cat ', 'My grandma ', 'My boss ', 'The neighbor ']
 what = ['chewed my shoes ', 'wrecked my car ', 'peed in my bed ', 'knocked on the door ']
