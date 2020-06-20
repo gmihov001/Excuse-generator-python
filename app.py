@@ -15,6 +15,6 @@ if(newExcuse != prevExcuse):
     print(newExcuse)
 else:
     newExcuse = who[random.randint(0,len(who)-1)] + what[random.randint(0,len(who)-1)] + when[random.randint(0,len(who)-1)]
-    print('Draw again')
+    print('newExcuse')
 
 prevExcuse = newExcuse
